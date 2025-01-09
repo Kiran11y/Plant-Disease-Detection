@@ -11,7 +11,7 @@ st.set_page_config(
      page_icon="🧊",
      layout="wide"
  )
-
+# Comment
  
 model_path = os.path.abspath(os.path.join(os.getcwd(),  "Plant_disease.h5"))
 #loading the model
